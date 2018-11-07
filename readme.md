@@ -1,1 +1,1 @@
-#django static file
+# django static file
